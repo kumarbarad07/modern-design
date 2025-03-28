@@ -41,4 +41,5 @@ Check out the live demo of the project here: [Modern House Design](https://peace
 Feel free to reach out if you have any questions, suggestions or feedback. You can contact me via the following:
 
 - GitHub: [Profile](https://github.com/kumarbarad07)
-- LinkedIn: [Kumar Barad](linkedin.com/in/kumar-barad-b571561b1/)
+- LinkedIn: [Kumar Barad](https://www.linkedin.com/in/kumar-barad-b571561b1/)
+
